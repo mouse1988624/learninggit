@@ -3,4 +3,8 @@
 333
 444
 555
-terrible & ugly
+<<<<<<< HEAD
+terrible AND ugly
+=======
+terrible AND ugly
+>>>>>>> feature1
